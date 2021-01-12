@@ -19,8 +19,7 @@ npm start
 npm run build
 ```
 
-###
+### Features:
 Healthy and Balanced Meal
-
-(./jpg/first.jpg)
-(./jpg/second.jpg)
+![first](./jpg/first.jpg)
+![second](./jpg/second.jpg)
