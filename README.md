@@ -1,4 +1,4 @@
-# "Healthy and Balanced Meal" personal prject
+# "Healthy and Balanced Meal" personal project
 
 
 ### Installation
